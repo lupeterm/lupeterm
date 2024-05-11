@@ -1,5 +1,6 @@
 ### Hi there 👋
 <p>&nbsp;<img align="center" src="https://github-readme-stats-rouge-one-18.vercel.app/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="Lupeterm" /></p>
+![Top Langs](https://github-readme-stats-rouge-one-18.vercel.app/api/top-langs/?username=lupeterm&theme=tokyonight)
 
 <!--
 **lupeterm/lupeterm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

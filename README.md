@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>&nbsp;<img align="center" src="https://github-readme-stats-wheat-nine-21.vercel.app/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="Lupeterm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-rouge-one-18.vercel.app/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="Lupeterm" /></p>
 
 <!--
 **lupeterm/lupeterm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

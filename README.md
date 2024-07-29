@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: flex;">
-    <img align="center" style="height: 200px" src="https://github-readme-stats-rouge-one-18.vercel.app/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="Lupeterm" />
+    <img align="center" style="height: 200px" src="https://github-readme-stats-rouge-one-18.vercel.app/api?username=Lupeterm&show_icons=true&locale=en&theme=tokyonight" alt="Lupeterm" />
     <img align="right" style="height: 200px"src="https://github-readme-stats-rouge-one-18.vercel.app/api/top-langs/?username=lupeterm&theme=tokyonight" alt="Lupeterm" />
 </div>
 <!--
